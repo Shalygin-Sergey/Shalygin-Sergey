@@ -20,10 +20,10 @@ Here are some ideas to get you started:
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-telegram-URL">
+    <a href="https://t.me/username">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="your-habr-URL">
+    <a href="(https://career.habr.com/shalygin-sergey)">
       <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
