@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-### :man_technologist: &nbsp;About Me :
+### About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
